@@ -1,0 +1,23 @@
+html {
+    color: rgb(255, 255, 255);
+    background: url(file:///C:/Users/ALUNOS/Downloads/fundo.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position-y: 10%;
+    background-position-x: center;
+    font-style: bold;
+    background-size: cover;
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    text-align:center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Resumo {
+    font-size: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
