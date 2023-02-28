@@ -1,6 +1,6 @@
 html {
     color: rgb(255, 255, 255);
-    background: url(file:///C:/Users/ALUNOS/Downloads/fundo.png);
+    background: url(https://lh3.googleusercontent.com/65eGu7X0oNV2u2kA7Ey7yzZmhYFG_uPUz_mJcUROHpfCN5A6ftke4LjKKXdjo5nK_sY_Ugnq61XPcihBikmcLDYe3erCMqqE8ZMbY_BNvRo5kbauM1FZ1Eub7Lbt_XporvVSpcl9wXyGFQHLMfWc9tbksu6U5EXVfkQyAGlRXkkV78IOHH5xz2xOgZKyNXb8Ie5StaRKV00y7iN6mFHMkG7SApe5NcVnByIrcczkVAiLWZIetxvIS5BSOllzMRkbRmESRKKnHoGETN_Naa93Hj5mPss4zKeUJ1d5Fu4CDKWobrOnfR5i4gvilwurAyiX7na-NWvt3GDiBs5m0iAD3nmsEiU-3IKcTQfw7aixWZEaWJPs8TxC5MDHnAOiZ-vbwdIJYIZx65xZ0EKV8P46dHlAwJqsglVKZ6OF8TxFcKSYDMh4-4JL3cTsN3BJ2tfaMva5wSzIVOtSgPpJXLkiota9b-GUbfUaP-5wHmcwn0P8LRqEN2ARIZXEaofsg4Llq3UhOfRNEiHgnkHH6bzaV7uAAYFaPBa49NJotUrBVAp0JXZuATZUZRQwRgOKcznJOKgl1pCG1_Ra8DxigtrLH4JSIhQRatnzC93I_7Pkp2xGAhJfDRXc5YP33ja-wgT9oRngEKIxoTFwT7DL5EPOzVtKx2uGxwtrFMF2uUF4hM3LVDgCeMG7ObB6cUJiCZ6fH4hzaHjLwYUpo7Ob5pCSdbP3t0T-FZ1y-8lXUOUzavhS9rbevJBq5XwNS-I8QbD92Duw-5qCDm91oe-V2lB3mAeVPXtpTE1he2P3eh4fOm07U8T5yu538X4yFQWarM-M-FOogqXBpRWQxdzOWMVPpwJQ4alszxo6kpG2ML_ZEWijIB9d7psQ0v8bnrkibU9eHOKPKBvEcKeOKhAF5hcTsTPeU3L_T8Md3hZ_zSVhsYWXBveFovKxRLA8sa4xij6NGbgWUw11pMETYLl8RGY3jNsjzycVxit3-H9LPxGclzw4Z4LJE74ycnKb7rUVf0s0iMe6V72htTpfzTo1Ygg93hfGw-Q=w1392-h597-no?authuser=0);
     background-size: 80%;
     background-repeat: no-repeat;
     background-position-y: 10%;
@@ -17,7 +17,7 @@ html {
 }
 
 .Resumo {
-    font-size: 400px;
+    font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     text-align:center;
 }
